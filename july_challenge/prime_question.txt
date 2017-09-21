@@ -1,0 +1,28 @@
+You are given a number N. If the number is prime, output Yes else output No.
+
+Input: 
+First line contains an integer T denoting the number of testcases.
+The next T lines contains an integer N.
+
+Output:
+For every testcase, output either Yes or No.
+
+Constraints:
+Subtask 1(30 points):
+1 <= T <= 10
+1 <= N <= 10^5
+
+Subtast 2(70 points):
+1 <= T <= 10
+1 <= N <= 10^12
+
+Time limit: 1 sec
+
+Sample Input:
+2
+5
+8
+
+Sample Output:
+Yes
+No
